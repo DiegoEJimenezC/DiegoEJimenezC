@@ -111,8 +111,13 @@ root@vediego:~$ neofetch --profile
 
 <div align="center">
 
-### 🏆 Trofeos de Perfil de GitHub
-<img src="https://github-profile-trophy.vercel.app/?username=DiegoEJimenezC&theme=radical&no-frame=false&margin-w=10&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+### 📈 Actividad & Contribuciones en Vivo
+<a href="https://github.com/DiegoEJimenezC">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoEJimenezC&theme=radical" alt="GitHub Profile Details" width="49%" />
+</a>
+<a href="https://github.com/DiegoEJimenezC">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoEJimenezC&theme=radical" alt="Lenguajes más utilizados" width="49%" />
+</a>
 
 <br/><br/>
 
