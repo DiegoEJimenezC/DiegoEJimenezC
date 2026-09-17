@@ -1,9 +1,9 @@
-# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00140d,50:002b1b,100:00f0ff&height=210&section=header&text=Diego%20Emiliano%20Jimenez%20Contla&fontSize=42&fontColor=00ff9d&fontAlignY=38&desc=%E2%8C%A8%EF%B8%8F%20Full%20Stack%20Developer%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Sistemas%20UAEM&descSize=18&descColor=a5f3fc&descAlignY=58" width="100%" /> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00140d,50:002b1b,100:00f0ff&height=210&section=header&text=Diego%20Emiliano%20Jimenez%20Contla&fontSize=42&fontColor=00ff9d&fontAlignY=38&desc=%E2%8C%A8%EF%B8%8F%20Full%20Stack%20Developer%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Sistemas%20UAEM&descSize=18&descColor=a5f3fc&descAlignY=58&fontFamily=Pixelify%20Sans,%20monospace" width="100%" /> </p>
 
 <div align="center">
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=DiegoEJimenezC&label=VISITAS+AL+PERFIL&style=for-the-badge&color=00ff9d&labelColor=0d1117)](https://github.com/DiegoEJimenezC)
-[![Portafolio Web](https://img.shields.io/badge/PORTAFOLIO_EN_VIVO-veDiego-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://centroculturalgh.com)
+[![Portafolio Web](https://img.shields.io/badge/PORTAFOLIO_EN_VIVO-veDiego-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=0d1117)](https://portafolio-web-vedejc.vercel.app)
 [![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39ff14?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117)](mailto:diegocontla305@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/CONTACTO-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/525536088441)
 
@@ -11,24 +11,42 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://github.com/DiegoEJimenezC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9D&center=true&vCenter=true&width=780&lines=%E2%88%BF+const+developer+%3D+%7B+name%3A+'Diego+Jimenez'+%7D%3B;%E2%9A%A1+Full+Stack+Software+Developer+%26+Software+Architect;%F0%9F%8E%93+Ingenier%C3%ADa+en+Sistemas+Computacionales+(UAEM);%F0%9F%8E%A8+Creative+Developer+%E2%80%A2+GSAP+%2B+Scrollytelling+60fps;%F0%9F%94%92+Especialista+en+Criptograf%C3%ADa+AES-256+%26+Tiempo+Real" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=24&pause=1200&color=00FF9D&center=true&vCenter=true&width=780&lines=%E2%88%BF+const+developer+%3D+%7B+name%3A+'Diego+Jimenez'+%7D%3B;%E2%9A%A1+Full+Stack+Software+Developer+%26+Software+Architect;%F0%9F%8E%93+Ingenier%C3%ADa+en+Sistemas+Computacionales+(UAEM);%F0%9F%8E%A8+Creative+Developer+%E2%80%A2+GSAP+%2B+Scrollytelling+60fps;%F0%9F%94%92+Especialista+en+Criptograf%C3%ADa+AES-256+%26+Tiempo+Real" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### 🖥️ `system_information.sh`
+### 💻 `vediego@macbook: ~ (zsh)`
 
-```bash
-root@vediego:~$ neofetch --profile
-   __   _                      OS: Linux / macOS / Web Architecture
-  / /  (_)__  __ _____ __      Host: UAEM - Fac. de Ingeniería en Sistemas
- / /__/ / _ \/ // /\ \ /       Role: Full Stack & Creative Developer
-/____/_/_//_/\_,_//_\_\        Uptime: 4+ años de desarrollo continuo (En proceso de titulación 🎓)
-                               Stack Core: React 19, Next.js, Node.js, Express, MongoDB, GSAP
-                               Focus: Sistemas de Alto Rendimiento, Criptografía & Interfaces Inmersivas
-                               Location: Estado de México, México 🇲🇽
+```zsh
+🔴 🟡 🟢  vediego@macbook: ~ (zsh)
+
+vediego@macbook ~ % npx vediego
+
+           ___  _                 
+__   ___  / _ \(_)__ ___ ____     
+\ \ / -_)/ // / / -_) _ `/ _ \    
+ \_/\__//____/_/\__/\_, /\___/    
+                   |___/          
+
+⚡ Diego Emiliano Jiménez Contla
+Ingeniero de Software & Desarrollador Fullstack
+📍 México (CDMX) • Disponible para proyectos
+────────────────────────────────────────
+🛠️  STACK PRINCIPAL:
+• Frontend: React 19, JavaScript, Vite, GSAP, CSS3
+• Backend & Datos: Node.js, Python, SQL, MongoDB
+• Especialidades: UI/UX Motion, Redes & Seguridad
+────────────────────────────────────────
+🌐 ENLACES DIRECTOS:
+→ GitHub: https://github.com/DiegoEJimenezC
+→ Portafolio: https://portafolio-web-vedejc.vercel.app
+→ Contacto: diegocontla305@gmail.com
+────────────────────────────────────────
+🎓 Formación: UAEM - Ingeniería en Sistemas (En proceso de titulación)
+vediego@macbook ~ % exit
 ```
 
 ---
@@ -113,17 +131,14 @@ root@vediego:~$ neofetch --profile
 
 ### 📈 Actividad & Contribuciones en Vivo
 <a href="https://github.com/DiegoEJimenezC">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoEJimenezC&theme=radical" alt="GitHub Profile Details" width="49%" />
-</a>
-<a href="https://github.com/DiegoEJimenezC">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiegoEJimenezC&theme=radical" alt="Lenguajes más utilizados" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoEJimenezC&theme=radical" alt="GitHub Profile Details" width="75%" />
 </a>
 
 <br/><br/>
 
 ### 🔥 Racha de Contribuciones (GitHub Streak)
 <a href="https://github.com/DiegoEJimenezC">
-  <img src="https://streak-stats.demolab.com?user=DiegoEJimenezC&theme=radical&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF9D&fire=00F0FF&currStreakLabel=00FF9D" alt="Diego's GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=DiegoEJimenezC&theme=radical&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF9D&fire=00F0FF&currStreakLabel=00FF9D" alt="Diego's GitHub Streak" width="75%"/>
 </a>
 
 </div>
